@@ -15,13 +15,15 @@ Estou aberto a oportunidades de estágio, aprendizado e colaboração em projeto
 ### 🤝 Contato
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/william-santos" target="_blank">
-    <img
-      alt="LinkedIn"
-      title="Meu LinkedIn"
-      src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    />
-  </a>
+  
+<a href="https://www.linkedin.com/in/wiliam-santos/" target="_blank">
+  <img
+    alt="LinkedIn"
+    title="Meu LinkedIn"
+    src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+  />
+</a>
+
   <a href="mailto:william.d.oliveira2@gmail.com">
     <img
       alt="E-mail"
